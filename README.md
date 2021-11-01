@@ -25,3 +25,5 @@ Dari hasil Wordtree tersebut, dapat disimpulkan bahwa pengguna twitter banyak me
 4. Trend
 
 ![Trend](https://user-images.githubusercontent.com/90661360/139689503-8799b584-eb0c-41ca-9f71-f09f5de34c65.png)
+
+Berdasarkan grafik diatas, trend yang masih banyak dibicarakan dalam sepekan oleh pengguna twitter yaitu tentang swab dan trend yang sudah tidak lagi ramai dibicarakan yaitu covid.
